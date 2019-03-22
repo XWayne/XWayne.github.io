@@ -1,7 +1,7 @@
 # Site settings 基础设置
 title: My Blog
 SEOTitle: John的博客 | My Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/主页背景.jpg
 email: 13415076946@163.com
 description: "Why do we fall."
 keyword: "Android,java"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/XWayne/XWayne.github.io.git" # you code reposit
 # Sidebar settings 侧边栏
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "So that we can learn to pick ourselves up"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/侧边栏图片.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
